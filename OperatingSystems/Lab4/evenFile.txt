@@ -1,0 +1,4 @@
+2 è pari
+10 è pari
+2 è pari
+0 è pari
